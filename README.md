@@ -31,7 +31,7 @@ Follow these simple steps to set up the AI Recruiter Agency locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/christerjohansson/ai-recruiter-agency
+   git clone https://github.com/chahalbaljinder/AI_Recruiter_Agency
    cd ai-recruiter-agency
    ```
 
